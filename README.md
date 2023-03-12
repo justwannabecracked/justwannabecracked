@@ -1,16 +1,15 @@
-### Hi there 👋, I'm Femi Obadimu
+### Growth
 
-<h1 align="center">About Me 🌱-Growth </h1>
+<h1 align="center" >Hi there 👋, I'm Femi Obadimu </h1></br></br>
 
 a software developer more vested in backend development with strong analytical skills and proficiency in mathematics, looking to advance a promising career in the position of software developer at technological companies and involved in things greater than oneself. I think am a good business guy who always tries to make each product I build marketable, loves nice design, In as much as I love good design am an advocate of good coding practice. I write clean, well-structured code that is readable, maintainable, scale-able, and friendly.
 
 Oh, about journey, i am mostly self-taught and as a person who is always determined about getting better in whatever he does. I have always tried to improve myself over the years by learning new technologies and also trying to be better at the previously existing ones.
 
-<h3 align="center"> Software Engineer | Technical Writer </h3>
+   <div align="center"></br></br>
 
-   <div align="center">
-
-<h1>Technical Skills 🛠</h1>
+<h1> Software Engineer | Technical Writer </h1>
+<>Technical Skills 🛠</>
    
 Languages: JavaScript, Golang, Typescript, Learning Rust.
 Management:  Leadership, Communication, Critical Thinking, Emotional Intelligence.
@@ -46,7 +45,9 @@ Technologies: Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, R
     <img alt="React Native" src="https://img.shields.io/badge/React_Native-0078D4?style=for-the-badge&logo=React%20Native&logoColor=white" />
      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2314354C.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
       <img alt="AWS" src="https://img.shields.io/badge/aws-F7931E?style=for-the-badge&logo=aws&logoColor=white" />
-</p>
+</p></br></br>
+
+
 
  <h1 align="center">Let's Get Connected</h1>
 
@@ -54,7 +55,7 @@ Technologies: Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, R
 - 💬 Schedule an online session with me or Buy me Coffee
 - 📫 Send me a mail: ficazzosam@gmail.com
 
-<div align="center">
+<div align="center"></br></br>
 
 <a  href="https://www.linkedin.com/in/femi-obadimu-7021171b7/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/femiobadimu3" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
