@@ -13,7 +13,7 @@ Oh, about journey, i am mostly self-taught and as a person who is always determi
    
 Languages: JavaScript, Golang, Typescript, Learning Rust.
 Management:  Leadership, Communication, Critical Thinking, Emotional Intelligence.
-Technologies: Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, React JS, Node JS, Next JS, React Native, Express, Figma, MongoDB, MongoDB Atlas, MySQL, Heroku, Render.
+Technologies: Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, React JS, Node JS, Next JS, React Native, Express, Figma, MongoDB, MongoDB Atlas, MySQL, Heroku, Render, Railway, AWS.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -22,6 +22,7 @@ Technologies: Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, R
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="Golang" src="https://img.shields.io/badge/Golang-Golang-blue?style=for-the-badge&logo=golang&logoColor=white" />
   <img alt="React JS" src="https://img.shields.io/badge/react.js-0078D4?style=for-the-badge&logo=react.js&logoColor=white" />
   <img alt="Next JS" src="https://img.shields.io/badge/next.js-0078D4?style=for-the-badge&logo=next.js&logoColor=white" />
  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
