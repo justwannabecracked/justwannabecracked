@@ -8,12 +8,15 @@ Oh, about journey, i am mostly self-taught and as a person who is always determi
 
    <div align="center"></br></br>
 
-<h1> Software Engineer | Technical Writer </h1>
-<>Technical Skills 🛠</>
-   
+<h1> Software Engineer | Technical Writer </h1></br></br>
+
+Technical Skills 🛠
+
 Languages: JavaScript, Golang, Typescript, Learning Rust.
-Management:  Leadership, Communication, Critical Thinking, Emotional Intelligence.
+Management: Leadership, Communication, Critical Thinking, Emotional Intelligence.
 Technologies: Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, React JS, Node JS, Next JS, React Native, Express, Figma, MongoDB, MongoDB Atlas, MySQL, Heroku, Render.
+
+</br></br></br>
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
