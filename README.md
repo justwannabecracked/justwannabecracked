@@ -51,7 +51,7 @@ Technologies: Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, R
 
  <h1 align="center">Let's Get Connected</h1>
 
-- 🌱 I’m still learning and improving my algorithms skills, feel free to send me a Message
+- 🌱 I’m still learning and improving my algorithms skills
 - 💬 Schedule an online session with me or Buy me Coffee
 - 📫 Send me a mail: ficazzosam@gmail.com
 
