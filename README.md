@@ -47,7 +47,7 @@ Technologies: Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, R
       <img alt="AWS" src="https://img.shields.io/badge/aws-F7931E?style=for-the-badge&logo=aws&logoColor=white" />
 </p></br></br>
 
- <h1 align="center">Let's Get Connected</h1>
+ <h1 align="center">Let's Get Connected!</h1>
 
 - 🌱 I’m always learning and improving my skills
 - 💬 Schedule an online session with me, lets chat :)
