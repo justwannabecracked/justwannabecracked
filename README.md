@@ -1,7 +1,6 @@
 ### Growth
 
-<h1 align="center" >Hi there 👋, I'm Femi Obadimu </h1></br></br>
-
+<h2 align="left" >Yo! , I'm Femi Obadimu </h2></br></br>
 A software developer more vested in backend development with strong analytical skills and proficiency in mathematics, looking to advance a promising career in the position of software developer at technological companies and involved in things greater than oneself. I think am a good business guy who always tries to make each product I build marketable, loves nice design, In as much as I love good design am an advocate of good coding practice. I write clean, well-structured code that is readable, maintainable, scale-able, and friendly.
 
 Oh, about journey, i am mostly self-taught and as a person who is always determined about getting better in whatever he does. I have always tried to improve myself over the years by learning new technologies and also trying to be better at the previously existing ones.
@@ -11,8 +10,8 @@ Oh, about journey, i am mostly self-taught and as a person who is always determi
 <h1> Software Engineer | Technical Writer </h1></br>
 <>Technical Skills 🛠</>
    
-Languages: JavaScript, Golang, Typescript, Learning Rust.
-Management:  Leadership, Communication, Critical Thinking, Emotional Intelligence.
+Languages: JavaScript, Golang, Typescript.
+Management:  Leadership, Communication, Critical Thinking, Cracked Nigga.
 Technologies: Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, React JS, Node JS, Next JS, React Native, Express, Figma, MongoDB, MongoDB Atlas, MySQL, Heroku, Render, Railway, AWS.
 
 <p align="center"> 
@@ -50,14 +49,13 @@ Technologies: Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, R
 
  <h1 align="center">Let's Get Connected</h1>
 
-- 🌱 I’m still learning and improving my algorithms skills
-- 💬 Schedule an online session with me or Buy me Coffee
+- 🌱 I’m always learning and improving my skills
+- 💬 Schedule an online session with me, lets chat :)
 - 📫 Send me a mail: ficazzosam@gmail.com
 
 <div align="center"></br></br>
-
 <a  href="https://www.linkedin.com/in/femi-obadimu-7021171b7/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/femiobadimu3" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="https://twitter.com/ficazzos" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:ficazzosam@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
